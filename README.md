@@ -1,6 +1,6 @@
 # kaggle-competition
 Currently working on: [TReNDS Neuroimaging](https://www.kaggle.com/competitions/trends-assessment-prediction)
->> Basics
+
 | Name of the Competition | My Solution | Useful Resources |
 |:-------------------------|:-------------:|------------------:|
 |[Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic) |||
